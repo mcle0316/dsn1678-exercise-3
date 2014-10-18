@@ -2,7 +2,7 @@ html {
   margin: 0;
   padding: 0;
 
-  background-color: #6b6e80;
+  background-color: #6b7468;
   box-sizing: border-box;
 
   color: #fff;
@@ -34,7 +34,7 @@ body {
 }
 
 .masthead {
-  background-color: #8a8d9e;
+  background-color: #004850;
 }
 
 .title {
@@ -57,7 +57,7 @@ body {
   position: relative;
   width: 24em;
 
-  background-color: rgba(127, 219, 255, 0.6);
+  background-color:#87be3c;
   border-radius: 1em;
   cursor: pointer;
 }
